@@ -111,7 +111,7 @@
 					<key>ImmediateClick</key>
 					<false/>
 					<key>MaxDragTime</key>
-					<integer>100000000</integer>
+					<integer>180000000</integer>
 					<key>MaxTapTime</key>
 					<integer>130000000</integer>
 					<key>MomentumScrollDivisor</key>
